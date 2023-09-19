@@ -1,0 +1,12 @@
+.idea
+target
+dist
+build
+.gradle
+HELP.md
+.classpath
+.project
+.settings
+.factorypath
+*.iws
+*.iml
